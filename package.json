@@ -94,7 +94,7 @@
   "peerDependencies": {
     "react": "18.3.1",
     "react-native": "~0.76.7",
-    "react-navigation": "^5.0.0"
+    "react-navigation": "^7.0.0"
   },
   "files": [
     "src",
